@@ -1,2 +1,4 @@
-# Mi proyecto de clase
-Estoy aprendiendo Git y GitHub.
+# • Un título “Objetivos”
+
+# • 3 bullets
+
